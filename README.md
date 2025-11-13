@@ -1,2 +1,2 @@
-# letterboxd_hijinks
+# film_hijinks
 im playing in here 
