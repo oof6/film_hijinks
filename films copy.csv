@@ -1,0 +1,198 @@
+Date,Name,Year,Letterboxd URI,Rating,decade,genre,liked
+2021-01-12,Spider-Man: Into the Spider-Verse,2018,https://boxd.it/azpY,5.0,2010,"['Adventure', 'Animation', 'Action', 'Science Fiction']",yes
+2021-01-12,Portrait of a Lady on Fire,2019,https://boxd.it/jkPq,5.0,2010,"['Drama', 'Romance', 'History']",yes
+2021-01-12,The Handmaiden,2016,https://boxd.it/948A,5.0,2010,"['Thriller', 'Romance', 'Drama']",yes
+2022-07-01,Swiss Army Man,2016,https://boxd.it/bDG2,4.5,2010,"['Drama', 'Fantasy', 'Comedy', 'Adventure', 'Romance']",no
+2022-07-07,Everything Everywhere All at Once,2022,https://boxd.it/jUk4,5.0,2020,"['Science Fiction', 'Adventure', 'Comedy', 'Action']",no
+2022-08-14,Donkey Skin,1970,https://boxd.it/22V2,4.5,1970,"['Fantasy', 'Romance', 'Comedy', 'Music']",yes
+2022-12-05,Barbarian,2022,https://boxd.it/yohi,5.0,2020,"['Thriller', 'Horror']",no
+2022-12-11,Guillermo del Toro's Pinocchio,2022,https://boxd.it/kjMW,4.5,2020,"['Drama', 'Adventure', 'Animation', 'Fantasy']",yes
+2023-04-13,M,1931,https://boxd.it/29vq,4.5,1930,"['Thriller', 'Drama', 'Crime']",no
+2023-05-14,Soft & Quiet,2022,https://boxd.it/zd2o,0.5,2020,"['Horror', 'Thriller']",no
+2023-06-26,The Tale of the Fox,1937,https://boxd.it/3b3K,4.0,1930,"['Fantasy', 'Animation', 'Comedy']",no
+2023-07-10,Nimona,2023,https://boxd.it/Aiyc,4.5,2020,"['Fantasy', 'Adventure', 'Animation', 'Family', 'Action', 'Science Fiction', 'Comedy']",no
+2023-07-22,Possession,1981,https://boxd.it/1BPm,3.0,1980,['Horror'],no
+2023-07-29,Blue Is the Warmest Color,2013,https://boxd.it/4O40,1.0,2010,"['Drama', 'Romance']",no
+2023-07-29,The Thing,1982,https://boxd.it/294O,4.0,1980,"['Mystery', 'Science Fiction', 'Horror']",no
+2023-08-07,Being John Malkovich,1999,https://boxd.it/2ahu,4.5,1990,"['Comedy', 'Drama', 'Fantasy']",no
+2023-08-07,The Killing of a Sacred Deer,2017,https://boxd.it/dZ5G,4.5,2010,"['Mystery', 'Drama', 'Thriller']",no
+2023-08-07,Ex Machina,2015,https://boxd.it/7T2k,4.0,2010,"['Science Fiction', 'Drama']",no
+2023-08-07,The Young Girls of Rochefort,1967,https://boxd.it/26K8,4.5,1960,"['Romance', 'Comedy', 'Drama']",no
+2023-08-07,One Hour Photo,2002,https://boxd.it/1YT2,3.5,2000,"['Thriller', 'Drama']",no
+2023-08-24,The Wicker Man,1973,https://boxd.it/1KnG,4.5,1970,['Horror'],no
+2023-09-12,Greener Grass,2019,https://boxd.it/jYoY,3.5,2010,['Comedy'],no
+2023-09-18,27 Dresses,2008,https://boxd.it/21x4,2.5,2000,"['Romance', 'Comedy']",no
+2023-09-19,Theater Camp,2023,https://boxd.it/Bfbm,4.5,2020,['Comedy'],no
+2023-09-19,My Man Godfrey,1936,https://boxd.it/1PTC,4.0,1930,['Comedy'],no
+2023-09-20,The Apartment,1960,https://boxd.it/2aGE,4.0,1960,"['Drama', 'Romance', 'Comedy']",no
+2023-09-21,Shiva Baby,2020,https://boxd.it/oIv0,4.5,2020,"['Comedy', 'Drama']",no
+2023-09-25,Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,https://boxd.it/mK0a,5.0,2020,"['Action', 'Comedy', 'Animation', 'Science Fiction']",no
+2023-09-28,Bottoms,2023,https://boxd.it/uGf2,5.0,2020,['Comedy'],yes
+2023-09-30,Charade,1963,https://boxd.it/23O2,4.5,1960,"['Romance', 'Mystery', 'Comedy']",no
+2023-10-15,Pearl,2022,https://boxd.it/zPbe,4.5,2020,"['Horror', 'Thriller']",no
+2023-10-23,They Live,1988,https://boxd.it/20lm,4.0,1980,"['Thriller', 'Action', 'Science Fiction']",no
+2023-11-12,"Night Is Short, Walk On Girl",2017,https://boxd.it/ffwA,4.5,2010,"['Romance', 'Fantasy', 'Comedy', 'Animation']",yes
+2023-11-15,The Lodge,2019,https://boxd.it/h2c2,3.0,2010,"['Horror', 'Thriller', 'Mystery', 'Drama']",no
+2023-11-19,Bones and All,2022,https://boxd.it/tLd4,4.5,2020,"['Horror', 'Drama', 'Romance']",no
+2024-01-04,The Holdovers,2023,https://boxd.it/vHza,4.0,2020,"['Drama', 'Comedy']",no
+2024-01-05,Isle of Dogs,2018,https://boxd.it/dZrW,4.0,2010,"['Comedy', 'Animation', 'Adventure']",no
+2024-01-15,Saltburn,2023,https://boxd.it/z4eg,4.0,2020,"['Comedy', 'Drama', 'Thriller']",no
+2024-01-20,Sonatine,1993,https://boxd.it/20TI,4.0,1990,"['Action', 'Thriller', 'Crime']",no
+2024-01-28,The First Wives Club,1996,https://boxd.it/265O,3.5,1990,['Comedy'],no
+2024-02-02,"The Good, the Bad and the Ugly",1966,https://boxd.it/2ape,4.5,1960,['Western'],no
+2024-02-03,Star Trek: The Motion Picture,1979,https://boxd.it/2b0O,3.0,1970,"['Mystery', 'Science Fiction', 'Adventure']",no
+2024-02-05,Star Trek II: The Wrath of Khan,1982,https://boxd.it/2b0u,4.0,1980,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",yes
+2024-02-05,Star Trek III: The Search for Spock,1984,https://boxd.it/2b00,3.0,1980,"['Science Fiction', 'Action', 'Thriller', 'Adventure']",no
+2024-02-05,Star Trek IV: The Voyage Home,1986,https://boxd.it/2aYe,3.5,1980,"['Science Fiction', 'Adventure']",no
+2024-02-17,District 9,2009,https://boxd.it/1Iik,4.0,2000,['Science Fiction'],no
+2024-02-19,Her,2013,https://boxd.it/4O24,3.0,2010,"['Science Fiction', 'Romance', 'Drama']",no
+2024-02-26,Titane,2021,https://boxd.it/nlQC,2.5,2020,"['Thriller', 'Horror', 'Science Fiction', 'Drama']",no
+2024-03-11,She's the Man,2006,https://boxd.it/1Y7W,4.0,2000,"['Romance', 'Comedy']",no
+2024-03-12,Lisa Frankenstein,2024,https://boxd.it/ByjY,3.5,2020,"['Comedy', 'Romance', 'Horror']",yes
+2024-03-12,My Cousin Vinny,1992,https://boxd.it/1WpO,4.0,1990,"['Drama', 'Comedy']",no
+2024-03-16,Poor Things,2023,https://boxd.it/tNWU,4.5,2020,"['Romance', 'Science Fiction', 'Comedy']",no
+2024-03-18,The Lord of the Rings: The Two Towers,2002,https://boxd.it/2b5E,4.5,2000,"['Action', 'Fantasy', 'Adventure']",yes
+2024-03-18,Interesting Ball,2014,https://boxd.it/9BCS,3.5,2010,"['Comedy', 'Fantasy']",no
+2024-03-19,The Lord of the Rings: The Return of the King,2003,https://boxd.it/2b5u,4.5,2000,"['Action', 'Fantasy', 'Adventure']",no
+2024-03-23,Anatomy of a Fall,2023,https://boxd.it/yuDE,4.0,2020,"['Crime', 'Thriller', 'Mystery']",no
+2024-05-10,Planet of the Apes,1968,https://boxd.it/29p8,4.0,1960,"['Adventure', 'Action', 'Drama', 'Science Fiction']",no
+2024-05-18,In a Lonely Place,1950,https://boxd.it/1JgO,4.0,1950,"['Romance', 'Drama', 'Mystery']",no
+2024-05-23,Dune: Part Two,2024,https://boxd.it/pUfA,4.5,2020,"['Adventure', 'Science Fiction']",no
+2024-05-27,Beauty and the Beast,1946,https://boxd.it/29UA,4.5,1940,"['Fantasy', 'Drama', 'Romance']",no
+2024-05-27,Persona,1966,https://boxd.it/29B4,4.5,1960,['Drama'],no
+2024-05-28,Anatomy of a Murder,1959,https://boxd.it/2baa,4.5,1950,"['Crime', 'Mystery', 'Drama']",no
+2024-06-03,The Omen,1976,https://boxd.it/29By,3.0,1970,"['Thriller', 'Horror']",no
+2024-06-04,Hour of the Wolf,1968,https://boxd.it/1H9G,4.5,1960,"['Drama', 'Horror']",no
+2024-06-04,Daisies,1966,https://boxd.it/LZk,4.5,1960,"['Comedy', 'Drama']",no
+2024-06-11,Carnival of Souls,1962,https://boxd.it/1KQ4,4.0,1960,"['Horror', 'Fantasy', 'Mystery']",no
+2024-06-20,Belly,1998,https://boxd.it/1R5Y,4.5,1990,"['Drama', 'Crime']",no
+2024-06-21,The Vampire Lovers,1970,https://boxd.it/1i2U,3.5,1970,['Horror'],no
+2024-07-07,Problemista,2023,https://boxd.it/waGO,5.0,2020,['Comedy'],yes
+2024-07-11,Anomalisa,2015,https://boxd.it/97TE,2.5,2010,"['Romance', 'Animation', 'Drama', 'Comedy']",no
+2024-07-29,Love Lies Bleeding,2024,https://boxd.it/zN4q,4.0,2020,"['Drama', 'Thriller', 'Crime', 'Romance']",no
+2024-08-12,Chungking Express,1994,https://boxd.it/1UDa,4.0,1990,"['Comedy', 'Drama', 'Romance']",no
+2024-08-13,Abigail,2024,https://boxd.it/G0NA,3.0,2020,"['Horror', 'Thriller', 'Crime', 'Action', 'Comedy']",no
+2024-08-24,Bound,1996,https://boxd.it/1Z1g,4.5,1990,"['Crime', 'Thriller', 'Drama']",no
+2024-09-08,The Decameron,1971,https://boxd.it/1fdq,4.0,1970,"['Drama', 'Comedy', 'History']",no
+2024-09-10,Kinds of Kindness,2024,https://boxd.it/CWPw,2.5,2020,"['Comedy', 'Drama']",no
+2024-09-14,Dogtooth,2009,https://boxd.it/158K,4.0,2000,['Drama'],no
+2024-09-21,Prometheus,2012,https://boxd.it/2s9e,2.5,2010,"['Adventure', 'Science Fiction', 'Horror', 'Mystery']",no
+2024-09-21,Alien: Covenant,2017,https://boxd.it/49UY,3.0,2010,"['Horror', 'Science Fiction', 'Thriller']",no
+2024-09-22,Investigation of a Citizen Above Suspicion,1970,https://boxd.it/1tRY,4.0,1970,"['Drama', 'Thriller']",no
+2024-09-22,The Host,2006,https://boxd.it/28ZY,4.0,2000,"['Drama', 'Science Fiction', 'Horror']",no
+2024-09-25,I Saw the Devil,2010,https://boxd.it/FaK,3.5,2010,"['Thriller', 'Horror']",no
+2024-10-02,Serial Mom,1994,https://boxd.it/1Tty,4.5,1990,"['Crime', 'Comedy']",no
+2024-10-05,Cronos,1992,https://boxd.it/1TjS,3.0,1990,"['Horror', 'Thriller', 'Drama']",no
+2024-10-07,Funny Games,1997,https://boxd.it/1WKM,5.0,1990,"['Thriller', 'Horror', 'Drama']",no
+2024-10-08,Scream 4,2011,https://boxd.it/Zmc,4.0,2010,"['Mystery', 'Horror']",no
+2024-10-09,The Graduate,1967,https://boxd.it/18Im,3.5,1960,"['Drama', 'Comedy', 'Romance']",no
+2024-10-12,Chicken for Linda!,2023,https://boxd.it/lGfS,4.0,2020,"['Family', 'Comedy', 'Animation']",no
+2024-10-12,Peeping Tom,1960,https://boxd.it/1Utk,4.0,1960,"['Horror', 'Thriller', 'Drama']",no
+2024-10-14,The Witches,1990,https://boxd.it/1WVg,3.0,1990,"['Horror', 'Family', 'Fantasy']",no
+2024-10-17,Who's Afraid of Virginia Woolf?,1966,https://boxd.it/2atK,4.5,1960,['Drama'],no
+2024-10-18,Scream,2022,https://boxd.it/o0lg,3.5,2020,"['Mystery', 'Horror']",no
+2024-10-19,Children of the Corn,1984,https://boxd.it/1ViW,2.0,1980,"['Thriller', 'Horror']",no
+2024-10-21,The Substance,2024,https://boxd.it/zanS,4.0,2020,"['Horror', 'Drama', 'Science Fiction']",no
+2024-10-24,Force Majeure,2014,https://boxd.it/7UcA,4.0,2010,['Drama'],no
+2024-10-26,May,2002,https://boxd.it/1V8M,3.5,2000,"['Comedy', 'Drama', 'Horror']",no
+2024-10-26,Cure,1997,https://boxd.it/1blA,4.0,1990,"['Crime', 'Mystery', 'Thriller', 'Horror']",no
+2024-10-28,MaXXXine,2024,https://boxd.it/CIM4,3.0,2020,"['Horror', 'Thriller']",no
+2024-10-31,Tampopo,1985,https://boxd.it/1SZe,4.5,1980,['Comedy'],no
+2024-11-02,Laura,1944,https://boxd.it/27Oq,4.5,1940,"['Mystery', 'Drama']",no
+2024-11-03,The Night of the Hunter,1955,https://boxd.it/25HW,4.5,1950,"['Drama', 'Crime', 'Thriller', 'Horror']",no
+2024-11-05,Bunny Lake Is Missing,1965,https://boxd.it/27NW,4.5,1960,"['Thriller', 'Mystery']",no
+2024-11-11,Seconds,1966,https://boxd.it/1Dbe,4.0,1960,"['Horror', 'Science Fiction', 'Thriller']",no
+2024-11-19,Werewolves Within,2021,https://boxd.it/u8fC,3.0,2020,"['Horror', 'Comedy']",no
+2024-11-23,Alien: Romulus,2024,https://boxd.it/zGqO,3.5,2020,"['Science Fiction', 'Horror']",no
+2024-11-27,The Pied Piper,1972,https://boxd.it/5Dz4,3.5,1970,"['Drama', 'Fantasy']",no
+2024-11-30,Children of Men,2006,https://boxd.it/1Y2i,5.0,2000,"['Action', 'Drama', 'Science Fiction', 'Thriller']",no
+2024-12-04,Smile 2,2024,https://boxd.it/FDA4,3.5,2020,"['Mystery', 'Horror']",no
+2024-12-09,Vertigo,1958,https://boxd.it/2apI,4.0,1950,"['Thriller', 'Romance', 'Mystery']",no
+2024-12-26,Dogville,2003,https://boxd.it/2a8W,4.5,2000,"['Thriller', 'Crime', 'Drama']",yes
+2024-12-31,Humanist Vampire Seeking Consenting Suicidal Person,2023,https://boxd.it/Blzk,4.0,2020,"['Romance', 'Comedy', 'Fantasy', 'Horror']",no
+2025-01-02,Oddity,2024,https://boxd.it/K9pg,4.0,2020,"['Mystery', 'Horror']",no
+2025-01-02,28 Days Later,2002,https://boxd.it/2aXU,4.0,2000,"['Science Fiction', 'Horror', 'Thriller']",no
+2025-01-12,The Wailing,2016,https://boxd.it/9fLy,4.0,2010,"['Horror', 'Mystery']",no
+2025-01-18,The Bride Wore Black,1968,https://boxd.it/24Ia,3.0,1960,"['Crime', 'Drama', 'Mystery']",no
+2025-01-18,The Servant,1963,https://boxd.it/VAa,4.5,1960,['Drama'],no
+2025-01-26,A Scanner Darkly,2006,https://boxd.it/25jK,4.0,2000,"['Animation', 'Science Fiction', 'Thriller']",no
+2025-01-29,Nosferatu,2024,https://boxd.it/f5eG,4.0,2020,"['Fantasy', 'Horror']",no
+2025-02-02,Bunnylovr,2025,https://boxd.it/QxM6,3.0,2020,['Drama'],no
+2025-02-02,"Sorry, Baby",2025,https://boxd.it/JKNi,4.0,2020,"['Comedy', 'Drama']",no
+2025-02-06,My Brother's Wedding,1983,https://boxd.it/3dBE,4.5,1980,['Drama'],no
+2025-02-12,Audition,1999,https://boxd.it/1UHm,4.0,1990,"['Drama', 'Horror']",no
+2025-02-17,Blade,1998,https://boxd.it/1a8A,4.0,1990,"['Action', 'Horror']",no
+2025-02-17,The Triplets of Belleville,2003,https://boxd.it/1Y6Y,4.0,2000,"['Family', 'Animation', 'Comedy', 'Drama']",no
+2025-02-17,The Girl with the Needle,2024,https://boxd.it/KQ3M,3.0,2020,"['Drama', 'History']",no
+2025-02-18,Longlegs,2024,https://boxd.it/KzLM,3.0,2020,"['Thriller', 'Crime', 'Horror']",no
+2025-02-18,Safe,1995,https://boxd.it/1gKU,3.5,1990,['Drama'],no
+2025-02-19,Dark Waters,2019,https://boxd.it/kaYu,3.5,2010,"['Thriller', 'Drama']",no
+2025-02-20,Johnny Corncob,1973,https://boxd.it/10eS,4.0,1970,"['Animation', 'Adventure', 'Fantasy']",no
+2025-02-21,Robot Dreams,2023,https://boxd.it/vBZm,4.5,2020,"['Comedy', 'Science Fiction', 'Animation', 'Drama']",no
+2025-02-23,Companion,2025,https://boxd.it/F04o,3.5,2020,"['Thriller', 'Science Fiction', 'Horror']",no
+2025-03-01,Flow,2024,https://boxd.it/v1Ei,4.0,2020,"['Family', 'Fantasy', 'Animation', 'Adventure']",no
+2025-03-02,Memoir of a Snail,2024,https://boxd.it/EgX8,3.5,2020,"['Comedy', 'Drama', 'Animation']",no
+2025-03-08,Monster,2023,https://boxd.it/DJEM,4.0,2020,"['Thriller', 'Mystery', 'Drama']",no
+2025-03-10,The Northman,2022,https://boxd.it/nK2s,4.0,2020,"['Adventure', 'Action', 'Fantasy']",no
+2025-03-16,The Conversation,1974,https://boxd.it/2a38,4.0,1970,"['Drama', 'Crime', 'Mystery']",no
+2025-04-07,The Game,1997,https://boxd.it/26vC,4.0,1990,"['Drama', 'Thriller', 'Mystery']",no
+2025-04-24,Demonlover,2002,https://boxd.it/1xz0,4.0,2000,"['Thriller', 'Mystery', 'Drama']",no
+2025-04-27,The Housemaid,1960,https://boxd.it/WJs,4.0,1960,"['Drama', 'Crime']",no
+2025-04-29,Sinners,2025,https://boxd.it/KQMM,4.5,2020,"['Thriller', 'Action', 'Horror']",no
+2025-05-10,The Ugly Stepsister,2025,https://boxd.it/MZBM,4.0,2020,"['Fantasy', 'Drama', 'Comedy', 'Horror']",yes
+2025-05-13,To Sleep with Anger,1990,https://boxd.it/3iqG,4.5,1990,['Drama'],no
+2025-05-15,The Company of Wolves,1984,https://boxd.it/1SO6,3.0,1980,"['Horror', 'Fantasy']",no
+2025-05-20,The Long Goodbye,1973,https://boxd.it/281O,4.0,1970,"['Drama', 'Crime', 'Mystery']",no
+2025-05-22,Sorcerer,1977,https://boxd.it/14J6,4.5,1970,"['Drama', 'Thriller', 'Adventure']",no
+2025-05-25,Mission: Impossible – The Final Reckoning,2025,https://boxd.it/l7A2,3.0,2020,"['Action', 'Adventure', 'Thriller']",no
+2025-05-26,The Celebration,1998,https://boxd.it/2aCM,4.5,1990,['Drama'],no
+2025-05-28,The Loved Ones,2009,https://boxd.it/NdC,3.0,2000,['Horror'],no
+2025-05-30,The Final Destination,2009,https://boxd.it/1EmW,2.0,2000,"['Horror', 'Mystery']",no
+2025-05-30,The Wolf House,2018,https://boxd.it/i1vE,4.0,2010,"['Drama', 'Horror', 'Animation']",no
+2025-06-05,Tea and Sympathy,1956,https://boxd.it/9Hi,4.5,1950,['Drama'],no
+2025-06-08,D.E.B.S.,2004,https://boxd.it/2aaS,4.0,2000,"['Action', 'Comedy', 'Romance']",yes
+2025-06-11,Peppermint Soda,1977,https://boxd.it/2NiG,4.5,1970,"['Drama', 'Comedy']",no
+2025-06-25,28 Weeks Later,2007,https://boxd.it/28Bi,3.0,2000,"['Horror', 'Science Fiction', 'Thriller']",no
+2025-07-12,Bring Her Back,2025,https://boxd.it/Hxlc,3.5,2020,['Horror'],no
+2025-07-14,Witness for the Prosecution,1957,https://boxd.it/18H4,4.5,1950,"['Crime', 'Mystery', 'Drama']",no
+2025-07-18,Superman,2025,https://boxd.it/E9IU,4.5,2020,"['Science Fiction', 'Adventure', 'Action']",no
+2025-07-30,The Ear,1970,https://boxd.it/38Sg,4.0,1970,"['Drama', 'Mystery', 'Thriller']",no
+2025-07-30,A History of Violence,2005,https://boxd.it/2bfa,3.0,2000,"['Thriller', 'Drama', 'Crime']",no
+2025-07-30,Death of a Unicorn,2025,https://boxd.it/HCPm,2.5,2020,"['Comedy', 'Horror', 'Fantasy']",no
+2025-07-30,Another Gay Movie,2006,https://boxd.it/1Rdo,1.0,2000,"['Romance', 'Comedy']",no
+2025-07-30,Alma's Rainbow,1994,https://boxd.it/8yF8,3.0,1990,"['Drama', 'Comedy']",no
+2025-07-30,The Watermelon Woman,1996,https://boxd.it/RRc,3.5,1990,"['Comedy', 'Drama', 'Romance']",no
+2025-07-30,The Trial,1962,https://boxd.it/25Xg,4.0,1960,"['Mystery', 'Crime', 'Drama']",no
+2025-08-01,Minority Report,2002,https://boxd.it/2aWi,4.0,2000,"['Thriller', 'Science Fiction', 'Action']",no
+2025-08-01,The Vanishing,1988,https://boxd.it/1ZTW,3.5,1980,"['Mystery', 'Horror', 'Thriller']",no
+2025-08-02,Dumplings,2004,https://boxd.it/1ZgA,4.0,2000,['Horror'],no
+2025-08-03,The Fantastic 4: First Steps,2025,https://boxd.it/mP6C,3.5,2020,"['Action', 'Science Fiction', 'Adventure']",no
+2025-08-05,Strange Days,1995,https://boxd.it/2aGO,3.0,1990,"['Crime', 'Science Fiction', 'Drama', 'Thriller']",no
+2025-08-08,The Monkey,2025,https://boxd.it/Gwiu,2.0,2020,"['Comedy', 'Horror']",no
+2025-08-10,Final Destination Bloodlines,2025,https://boxd.it/l5y4,3.0,2020,"['Mystery', 'Horror']",no
+2025-08-14,Naked Acts,1996,https://boxd.it/8baQ,4.0,1990,"['Comedy', 'Drama']",no
+2025-08-23,The Piano Teacher,2001,https://boxd.it/2886,4.5,2000,"['Romance', 'Drama']",no
+2025-08-31,Weapons,2025,https://boxd.it/EMTM,4.0,2020,"['Horror', 'Mystery']",no
+2025-09-15,I Saw the TV Glow,2024,https://boxd.it/woVe,5.0,2020,"['Drama', 'Fantasy', 'Horror']",yes
+2025-09-19,Benedetta,2021,https://boxd.it/gdNQ,3.5,2020,"['Drama', 'Romance', 'History']",no
+2025-09-20,The Devils,1971,https://boxd.it/1inI,4.0,1970,"['Drama', 'History', 'Horror']",no
+2025-10-08,Fascination,1979,https://boxd.it/1ncU,3.0,1970,['Horror'],no
+2025-10-13,Body Bags,1993,https://boxd.it/1iNc,3.5,1990,"['TV Movie', 'Comedy', 'Horror', 'Science Fiction']",no
+2025-10-15,Blithe Spirit,1945,https://boxd.it/1FLo,5.0,1940,"['Fantasy', 'Comedy']",no
+2025-10-16,Lifeforce,1985,https://boxd.it/1SGw,3.5,1980,"['Action', 'Science Fiction', 'Horror', 'Mystery']",no
+2025-10-17,Immaculate,2024,https://boxd.it/Douw,2.0,2020,"['Mystery', 'Thriller', 'Horror']",no
+2025-10-19,The Incredibly True Adventure of Two Girls in Love,1995,https://boxd.it/1nDc,5.0,1990,"['Romance', 'Comedy', 'Drama']",yes
+2025-10-23,Peacock,2024,https://boxd.it/Lm4s,3.5,2020,['Comedy'],no
+2025-10-24,No Other Choice,2025,https://boxd.it/nKiA,4.5,2020,"['Crime', 'Comedy', 'Thriller']",no
+2025-10-25,Sentimental Value,2025,https://boxd.it/GwcG,4.0,2020,"['Comedy', 'Drama']",no
+2025-10-25,The Plague,2025,https://boxd.it/QMbO,4.0,2020,"['Horror', 'Drama']",no
+2025-10-26,Frankenstein,2025,https://boxd.it/Ecsg,4.0,2020,"['Fantasy', 'Drama', 'Horror']",no
+2025-10-26,Arco,2025,https://boxd.it/uh7C,4.0,2020,"['Science Fiction', 'Adventure', 'Animation', 'Fantasy']",no
+2025-10-27,Hamnet,2025,https://boxd.it/woVy,4.5,2020,"['Drama', 'Romance']",no
+2025-10-27,Romería,2025,https://boxd.it/IR3k,3.0,2020,['Drama'],no
+2025-10-27,Rental Family,2025,https://boxd.it/JQOw,4.0,2020,"['Drama', 'Comedy']",no
+2025-10-28,Mufasa: The Lion King,2024,https://boxd.it/sE9C,2.0,2020,"['Family', 'Adventure', 'Animation']",no
+2025-10-30,Vampyres,1974,https://boxd.it/1kmW,3.0,1970,['Horror'],no
+2025-11-05,Bugonia,2025,https://boxd.it/qeWY,3.5,2020,"['Science Fiction', 'Thriller', 'Crime']",no
+2025-11-05,Chainsaw Man – The Movie: Reze Arc,2025,https://boxd.it/Kgyu,4.5,2020,"['Fantasy', 'Romance', 'Action', 'Animation']",no
+2025-11-13,American Mary,2012,https://boxd.it/48WY,2.0,2010,"['Thriller', 'Horror']",no
